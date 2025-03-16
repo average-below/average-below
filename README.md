@@ -16,7 +16,7 @@
 - He/Him
 - 
 - ⚡ Fun fact: ...
-- I am average-below in Japanese. I could speak it be need working on reading and writing.
+- I am average-below in Japanese. I could speak it but, it needs work on reading and writing.
 
 <!---
 average-below/average-below is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
